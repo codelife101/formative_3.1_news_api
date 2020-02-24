@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background: #FAF8F0;
+}
+
+.remove {
+  color: #333;
+}
+
+.remove:hover {
+  color: #A6E0DE;
+  text-decoration: none;
+}
+
+.h1Background {
+  font-size: 50px;
+  color: #FAF8F0;
+  background-color: #A6E0DE;
+  font-family: Coda Caption;
+  text-align: center;
+}
+
+.margin {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.searchNav {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.back {
+  color: #f49fb6;
+  font-weight: bold;
+  margin-bottom: 50px;
+  border-bottom: 3px solid #333;
+}
+
+.padding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */

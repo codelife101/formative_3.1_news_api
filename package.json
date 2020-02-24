@@ -1,0 +1,33 @@
+{
+  "name": "npm-grunt",
+  "version": "1.0.0",
+  "description": "npm grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "tesiting grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-grunt"
+  },
+  "keywords": [
+    "grunt",
+    "tutorial"
+  ],
+  "author": "jake",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
